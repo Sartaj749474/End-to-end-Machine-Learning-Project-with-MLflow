@@ -12,4 +12,5 @@ COLUMNS:
   Outlet_Type: object
 
 TARGET_COLUMN:
-  name: Item_Outlet_Sales
+  name: NewTargetwithLOG
+

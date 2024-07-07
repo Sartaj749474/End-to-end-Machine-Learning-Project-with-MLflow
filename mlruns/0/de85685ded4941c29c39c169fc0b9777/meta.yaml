@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/de85685ded4941c29c39c169fc0b9777/artifacts
+end_time: 1720343206366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de85685ded4941c29c39c169fc0b9777
+run_name: resilient-goose-50
+run_uuid: de85685ded4941c29c39c169fc0b9777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720343195257
+status: 3
+tags: []
+user_id: dchopda

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/73877604efd848a9b5dd8dc013587722/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73877604efd848a9b5dd8dc013587722
+run_name: unruly-sheep-594
+run_uuid: 73877604efd848a9b5dd8dc013587722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720342678163
+status: 1
+tags: []
+user_id: dchopda
