@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/8823d52c0caf439b9caf2be355abeff4/artifacts
+end_time: 1720359575747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8823d52c0caf439b9caf2be355abeff4
+run_name: bustling-yak-498
+run_uuid: 8823d52c0caf439b9caf2be355abeff4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720359563758
+status: 3
+tags: []
+user_id: dchopda

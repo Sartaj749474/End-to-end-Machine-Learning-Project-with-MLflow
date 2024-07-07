@@ -48,7 +48,7 @@ mlflow ui
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Dhach123/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
 MLFLOW_TRACKING_USERNAME=Dhach123
-MLFLOW_TRACKING_PASSWORD=ee4223cfcad036a1e48f4838e79d68a2a983aeea
+MLFLOW_TRACKING_PASSWORD=590f33406c061585e5596e6f4e56b0955f15843d
 python script.py
 
 
@@ -59,5 +59,5 @@ export MLFLOW_TRACKING_URI=https://dagshub.com/Dhach123/End-to-end-Machine-Learn
 
 export MLFLOW_TRACKING_USERNAME=Dhach123 
 
-export MLFLOW_TRACKING_PASSWORD=ee4223cfcad036a1e48f4838e79d68a2a983aeea
+export MLFLOW_TRACKING_PASSWORD=590f33406c061585e5596e6f4e56b0955f15843d
 

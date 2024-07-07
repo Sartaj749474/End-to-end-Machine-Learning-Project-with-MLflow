@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/2ddf157165304d9fb584421f88d68f73/artifacts
+end_time: 1720344100347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2ddf157165304d9fb584421f88d68f73
+run_name: unequaled-snipe-786
+run_uuid: 2ddf157165304d9fb584421f88d68f73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720344091158
+status: 3
+tags: []
+user_id: dchopda

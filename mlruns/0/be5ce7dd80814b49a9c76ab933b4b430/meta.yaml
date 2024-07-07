@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/be5ce7dd80814b49a9c76ab933b4b430/artifacts
+end_time: 1720358969471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be5ce7dd80814b49a9c76ab933b4b430
+run_name: hilarious-roo-146
+run_uuid: be5ce7dd80814b49a9c76ab933b4b430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720358955949
+status: 3
+tags: []
+user_id: dchopda

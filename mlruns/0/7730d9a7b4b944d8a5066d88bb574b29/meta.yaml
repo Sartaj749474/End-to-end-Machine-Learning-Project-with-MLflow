@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/7730d9a7b4b944d8a5066d88bb574b29/artifacts
+end_time: 1720344175281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7730d9a7b4b944d8a5066d88bb574b29
+run_name: overjoyed-owl-887
+run_uuid: 7730d9a7b4b944d8a5066d88bb574b29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720344167491
+status: 3
+tags: []
+user_id: dchopda

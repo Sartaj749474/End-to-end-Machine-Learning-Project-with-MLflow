@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/5f7cebe6c9a14a9385d1fb7c57582465/artifacts
+end_time: 1720344136048
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f7cebe6c9a14a9385d1fb7c57582465
+run_name: angry-shrike-231
+run_uuid: 5f7cebe6c9a14a9385d1fb7c57582465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720344128178
+status: 3
+tags: []
+user_id: dchopda
