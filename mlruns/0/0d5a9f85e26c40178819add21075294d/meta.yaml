@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/0d5a9f85e26c40178819add21075294d/artifacts
+end_time: 1720361296504
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d5a9f85e26c40178819add21075294d
+run_name: calm-duck-633
+run_uuid: 0d5a9f85e26c40178819add21075294d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720361286299
+status: 3
+tags: []
+user_id: dchopda

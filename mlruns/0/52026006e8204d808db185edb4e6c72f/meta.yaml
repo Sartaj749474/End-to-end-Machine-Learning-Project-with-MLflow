@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/52026006e8204d808db185edb4e6c72f/artifacts
+end_time: 1720459761780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52026006e8204d808db185edb4e6c72f
+run_name: respected-duck-154
+run_uuid: 52026006e8204d808db185edb4e6c72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720459761685
+status: 3
+tags: []
+user_id: dchopda

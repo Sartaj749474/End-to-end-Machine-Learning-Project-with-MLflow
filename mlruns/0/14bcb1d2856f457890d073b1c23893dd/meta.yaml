@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/14bcb1d2856f457890d073b1c23893dd/artifacts
+end_time: 1720469661349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14bcb1d2856f457890d073b1c23893dd
+run_name: sedate-toad-921
+run_uuid: 14bcb1d2856f457890d073b1c23893dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720469649010
+status: 3
+tags: []
+user_id: dchopda

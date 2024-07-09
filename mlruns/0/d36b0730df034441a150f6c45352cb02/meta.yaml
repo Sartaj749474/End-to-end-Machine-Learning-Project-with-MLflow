@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/d36b0730df034441a150f6c45352cb02/artifacts
+end_time: 1720469632035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d36b0730df034441a150f6c45352cb02
+run_name: legendary-sloth-5
+run_uuid: d36b0730df034441a150f6c45352cb02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720469616105
+status: 3
+tags: []
+user_id: dchopda

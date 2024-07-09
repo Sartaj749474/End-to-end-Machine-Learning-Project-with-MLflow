@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/b47f22df87a24cd1b2eb89414fe0e9bc/artifacts
+end_time: 1720548972371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b47f22df87a24cd1b2eb89414fe0e9bc
+run_name: rebellious-fox-511
+run_uuid: b47f22df87a24cd1b2eb89414fe0e9bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720548957814
+status: 3
+tags: []
+user_id: dchopda

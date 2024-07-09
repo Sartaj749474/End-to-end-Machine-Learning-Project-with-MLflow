@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/c10e64df97624b7d89817b392c0d3bad/artifacts
+end_time: 1720565494311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c10e64df97624b7d89817b392c0d3bad
+run_name: trusting-crow-6
+run_uuid: c10e64df97624b7d89817b392c0d3bad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720565486781
+status: 3
+tags: []
+user_id: dchopda

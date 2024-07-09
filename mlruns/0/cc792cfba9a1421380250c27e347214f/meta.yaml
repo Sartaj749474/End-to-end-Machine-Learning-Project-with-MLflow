@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/cc792cfba9a1421380250c27e347214f/artifacts
+end_time: 1720469876293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc792cfba9a1421380250c27e347214f
+run_name: thoughtful-dog-680
+run_uuid: cc792cfba9a1421380250c27e347214f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720469864846
+status: 3
+tags: []
+user_id: dchopda
