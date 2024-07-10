@@ -1,5 +1,5 @@
 xg:
   n_estimators: 10
-  seed: 123
+  seed: 120
 
 
