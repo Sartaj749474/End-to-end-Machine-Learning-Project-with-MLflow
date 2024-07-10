@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/6f89323712db455c849572ee2f03b7ae/artifacts
+end_time: 1720573056893
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f89323712db455c849572ee2f03b7ae
+run_name: entertaining-doe-915
+run_uuid: 6f89323712db455c849572ee2f03b7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720573048993
+status: 3
+tags: []
+user_id: dchopda

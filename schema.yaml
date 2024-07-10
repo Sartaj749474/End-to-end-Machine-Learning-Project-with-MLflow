@@ -4,7 +4,7 @@ COLUMNS:
   Item_Fat_Content: object
   Item_Visibility: float64
   Item_Type: object
-  Item_MRP: float64
+  Item_MRP: float64                                                      
   Outlet_Identifier: object
   Outlet_Establishment_Year: int64
   Outlet_Size: object

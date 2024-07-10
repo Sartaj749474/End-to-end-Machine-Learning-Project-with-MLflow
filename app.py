@@ -36,7 +36,7 @@ def index():
                    
          
             data = [Item_Weight,Item_Fat_Content,Item_Visibility,Item_Type,Item_MRP,Outlet_Establishment_Year,Outlet_Size,Outlet_Location_Type,Outlet_Type,Years_Established]
-            data = np.array(data).reshape(1, 11)
+            data = np.array(data).reshape(1, 10)
             
             obj = PredictionPipeline()
             predict = obj.predict(data)
