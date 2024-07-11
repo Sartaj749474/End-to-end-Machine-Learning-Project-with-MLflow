@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/f7455d7276244fafa2263a56e108a4d3/artifacts
+end_time: 1720726791834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7455d7276244fafa2263a56e108a4d3
+run_name: gaudy-sow-54
+run_uuid: f7455d7276244fafa2263a56e108a4d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720726781732
+status: 3
+tags: []
+user_id: dchopda

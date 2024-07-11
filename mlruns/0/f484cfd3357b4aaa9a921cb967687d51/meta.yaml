@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/f484cfd3357b4aaa9a921cb967687d51/artifacts
+end_time: 1720727253487
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f484cfd3357b4aaa9a921cb967687d51
+run_name: omniscient-seal-734
+run_uuid: f484cfd3357b4aaa9a921cb967687d51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720727244945
+status: 3
+tags: []
+user_id: dchopda
