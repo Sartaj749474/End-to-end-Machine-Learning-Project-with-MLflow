@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/a5fcfe5b224345749f5b569b5ec37b66/artifacts
+end_time: 1720770442151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5fcfe5b224345749f5b569b5ec37b66
+run_name: dashing-dog-433
+run_uuid: a5fcfe5b224345749f5b569b5ec37b66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720770426243
+status: 3
+tags: []
+user_id: dchopda
